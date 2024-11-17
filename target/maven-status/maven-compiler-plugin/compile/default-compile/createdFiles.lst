@@ -1,0 +1,15 @@
+com/learn/springbootmongodb/collection/Address.class
+com/learn/springbootmongodb/collection/Photo.class
+com/learn/springbootmongodb/controller/PersonController.class
+com/learn/springbootmongodb/collection/Person.class
+com/learn/springbootmongodb/collection/Address$AddressBuilder.class
+com/learn/springbootmongodb/config/SpringFoxConfig.class
+com/learn/springbootmongodb/SpringbootMongodbApplication.class
+com/learn/springbootmongodb/service/PersonServiceImpl.class
+com/learn/springbootmongodb/collection/Person$PersonBuilder.class
+com/learn/springbootmongodb/service/PersonService.class
+com/learn/springbootmongodb/repository/PersonRepository.class
+com/learn/springbootmongodb/repository/PhotoRepository.class
+com/learn/springbootmongodb/service/PhotoService.class
+com/learn/springbootmongodb/service/PhotoServiceImpl.class
+com/learn/springbootmongodb/controller/PhotoController.class
